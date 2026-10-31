@@ -15,6 +15,5 @@ void calculateprice(float value){
 
     printf("the price is %f\n",value);
     
-    
 
 }
